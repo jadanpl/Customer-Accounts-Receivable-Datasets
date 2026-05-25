@@ -1,0 +1,121 @@
+Customer ID,Customer Name,Credit Limit,Segment,Region
+CUST001,Customer 1,50000,Corporate,North
+CUST002,Customer 2,75000,Corporate,South
+CUST003,Customer 3,30000,Wholesale,North
+CUST004,Customer 4,75000,Corporate,North
+CUST005,Customer 5,75000,Corporate,North
+CUST006,Customer 6,20000,Wholesale,East
+CUST007,Customer 7,30000,Distributor,East
+CUST008,Customer 8,30000,Corporate,East
+CUST009,Customer 9,30000,Wholesale,South
+CUST010,Customer 10,75000,Retail,Central
+CUST011,Customer 11,50000,Distributor,North
+CUST012,Customer 12,30000,Retail,North
+CUST013,Customer 13,100000,Retail,South
+CUST014,Customer 14,75000,Wholesale,North
+CUST015,Customer 15,20000,Corporate,East
+CUST016,Customer 16,50000,Wholesale,Central
+CUST017,Customer 17,100000,Wholesale,Sabah & Sarawak
+CUST018,Customer 18,100000,Wholesale,North
+CUST019,Customer 19,20000,Wholesale,East
+CUST020,Customer 20,50000,Distributor,Sabah & Sarawak
+CUST021,Customer 21,75000,Corporate,Central
+CUST022,Customer 22,10000,Retail,Sabah & Sarawak
+CUST023,Customer 23,50000,Retail,East
+CUST024,Customer 24,20000,Corporate,Sabah & Sarawak
+CUST025,Customer 25,100000,Retail,South
+CUST026,Customer 26,75000,Corporate,Sabah & Sarawak
+CUST027,Customer 27,50000,Retail,North
+CUST028,Customer 28,10000,Wholesale,North
+CUST029,Customer 29,10000,Retail,South
+CUST030,Customer 30,30000,Corporate,East
+CUST031,Customer 31,30000,Corporate,North
+CUST032,Customer 32,20000,Corporate,Central
+CUST033,Customer 33,50000,Corporate,North
+CUST034,Customer 34,50000,Corporate,North
+CUST035,Customer 35,100000,Distributor,East
+CUST036,Customer 36,100000,Distributor,Sabah & Sarawak
+CUST037,Customer 37,100000,Retail,North
+CUST038,Customer 38,30000,Corporate,South
+CUST039,Customer 39,50000,Retail,Sabah & Sarawak
+CUST040,Customer 40,50000,Corporate,Central
+CUST041,Customer 41,10000,Corporate,East
+CUST042,Customer 42,30000,Distributor,Central
+CUST043,Customer 43,75000,Distributor,Sabah & Sarawak
+CUST044,Customer 44,30000,Wholesale,Sabah & Sarawak
+CUST045,Customer 45,75000,Distributor,Sabah & Sarawak
+CUST046,Customer 46,10000,Wholesale,Central
+CUST047,Customer 47,20000,Wholesale,Sabah & Sarawak
+CUST048,Customer 48,50000,Wholesale,Central
+CUST049,Customer 49,10000,Wholesale,Sabah & Sarawak
+CUST050,Customer 50,50000,Wholesale,South
+CUST051,Customer 51,100000,Retail,Sabah & Sarawak
+CUST052,Customer 52,20000,Distributor,Central
+CUST053,Customer 53,20000,Wholesale,North
+CUST054,Customer 54,10000,Corporate,Sabah & Sarawak
+CUST055,Customer 55,20000,Distributor,North
+CUST056,Customer 56,75000,Distributor,South
+CUST057,Customer 57,20000,Wholesale,East
+CUST058,Customer 58,50000,Retail,South
+CUST059,Customer 59,50000,Wholesale,Sabah & Sarawak
+CUST060,Customer 60,50000,Retail,North
+CUST061,Customer 61,50000,Corporate,North
+CUST062,Customer 62,75000,Distributor,Central
+CUST063,Customer 63,30000,Corporate,North
+CUST064,Customer 64,100000,Retail,Central
+CUST065,Customer 65,10000,Retail,East
+CUST066,Customer 66,50000,Corporate,Sabah & Sarawak
+CUST067,Customer 67,20000,Retail,Central
+CUST068,Customer 68,50000,Corporate,East
+CUST069,Customer 69,20000,Distributor,North
+CUST070,Customer 70,100000,Corporate,North
+CUST071,Customer 71,100000,Distributor,East
+CUST072,Customer 72,100000,Corporate,North
+CUST073,Customer 73,20000,Retail,East
+CUST074,Customer 74,50000,Corporate,Central
+CUST075,Customer 75,100000,Retail,Central
+CUST076,Customer 76,75000,Corporate,East
+CUST077,Customer 77,20000,Corporate,Central
+CUST078,Customer 78,20000,Wholesale,Central
+CUST079,Customer 79,50000,Retail,Central
+CUST080,Customer 80,20000,Wholesale,South
+CUST081,Customer 81,20000,Retail,Sabah & Sarawak
+CUST082,Customer 82,100000,Wholesale,North
+CUST083,Customer 83,50000,Distributor,South
+CUST084,Customer 84,100000,Corporate,Central
+CUST085,Customer 85,100000,Retail,East
+CUST086,Customer 86,50000,Retail,Central
+CUST087,Customer 87,10000,Corporate,Sabah & Sarawak
+CUST088,Customer 88,100000,Retail,Central
+CUST089,Customer 89,75000,Retail,East
+CUST090,Customer 90,75000,Wholesale,Sabah & Sarawak
+CUST091,Customer 91,20000,Retail,Central
+CUST092,Customer 92,75000,Distributor,Sabah & Sarawak
+CUST093,Customer 93,20000,Distributor,North
+CUST094,Customer 94,10000,Corporate,North
+CUST095,Customer 95,50000,Retail,Central
+CUST096,Customer 96,50000,Corporate,Sabah & Sarawak
+CUST097,Customer 97,50000,Distributor,East
+CUST098,Customer 98,75000,Retail,Central
+CUST099,Customer 99,10000,Retail,North
+CUST100,Customer 100,75000,Corporate,North
+CUST101,Customer 101,75000,Distributor,Central
+CUST102,Customer 102,10000,Retail,Sabah & Sarawak
+CUST103,Customer 103,10000,Corporate,North
+CUST104,Customer 104,10000,Distributor,Sabah & Sarawak
+CUST105,Customer 105,10000,Corporate,North
+CUST106,Customer 106,50000,Wholesale,North
+CUST107,Customer 107,30000,Retail,South
+CUST108,Customer 108,30000,Wholesale,North
+CUST109,Customer 109,10000,Distributor,East
+CUST110,Customer 110,30000,Wholesale,Central
+CUST111,Customer 111,30000,Wholesale,Central
+CUST112,Customer 112,10000,Distributor,Sabah & Sarawak
+CUST113,Customer 113,30000,Corporate,North
+CUST114,Customer 114,75000,Wholesale,East
+CUST115,Customer 115,20000,Corporate,Sabah & Sarawak
+CUST116,Customer 116,20000,Wholesale,South
+CUST117,Customer 117,10000,Corporate,Sabah & Sarawak
+CUST118,Customer 118,50000,Distributor,Sabah & Sarawak
+CUST119,Customer 119,10000,Wholesale,North
+CUST120,Customer 120,50000,Distributor,South
